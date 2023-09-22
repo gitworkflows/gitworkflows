@@ -1,0 +1,12 @@
+title: GitWorkflows He
+domain: gitworkflwos.github.io
+url: https://gitworkflwos.github.io
+tagline: Full Stack Engineer + Solutions Architect + M.B.A.
+description: >-
+  Hello there, I'm @gitworkflwos 👋
+  ( "👨‍💻 Full Stack Engineer" | "☁️ Solutions Architect Expert" | "💼 M.B.A." )
+
+plugins:
+  - jekyll-readme-index
+  - jekyll-seo-tag
+  - github-pages
